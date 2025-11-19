@@ -12,9 +12,9 @@ StudentID: NLUB
 
 
 
-PhoneID: x14
+PhoneID: x14Pro
 
 
 
-iPhone 14
+iPhone 14 Pro
 
